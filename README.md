@@ -5,7 +5,3 @@ https://github.com/saiyed207/whatsapp/assets/121919287/81b365db-1538-41de-8a2a-1
 
 part2:
 
-
-
-Uploading whatsappnew.mp4…
-
