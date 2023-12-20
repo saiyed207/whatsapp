@@ -1,7 +1,11 @@
 Below is my video of the project and its working:
 
 part1:
-https://github.com/saiyed207/whatsapp/assets/121919287/81b365db-1538-41de-8a2a-1d074dec9cea
+
+
+https://github.com/saiyed207/whatsapp/assets/121919287/a38aa39c-cc66-495b-9819-e65c9a275ae2
+
+
 
 part2:
 
